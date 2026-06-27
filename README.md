@@ -39,7 +39,6 @@ The notebook includes:
 * Keras
 * NumPy
 * Pandas
-* KaggleHub
 * Jupyter Notebook
 
 ---
@@ -112,6 +111,3 @@ The notebook follows the following workflow:
 * Jupyter Notebook
 
 
-
-
-⭐ If you found this project useful, consider giving it a star on GitHub!
